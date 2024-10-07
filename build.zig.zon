@@ -13,8 +13,8 @@
             .hash = "12200d1ce5f9733a9437415d85665ad5fbc85a4d27689fd337fecad8014acffe3aa5",
         },
         .libxev = .{
-            .url = "git+https://github.com/mitchellh/libxev#f6a672a78436d8efee1aa847a43a900ad773618b",
-            .hash = "12207b7a5b538ffb7fb18f954ae17d2f8490b6e3778a9e30564ad82c58ee8da52361",
+            .url = "git+https://github.com/der-teufel-programming/libxev#feac1ce3d658f382ccd0a3d6a88f839ed49e8dd9",
+            .hash = "122036d28cc5a76cb6d1fa18dfff9559e5ec9c0bee65c57f3319a660cb56c4460a20",
             .lazy = true,
         },
         .aio = .{
